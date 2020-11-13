@@ -1,0 +1,14 @@
+.Right-Container{
+    display: flex;
+    font-size:20px;
+    flex-direction: column;
+   background-color: #e9ebee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 250px
+}
+.Right-page{
+    padding-top: 25px;
+}
+.font2{
+    color: gray;
+}

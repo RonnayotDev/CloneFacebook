@@ -1,0 +1,77 @@
+.center-container{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+    padding-top: 30px;
+    align-items: center;
+    width: 500px;
+    background-color: #e9ebee;
+   
+}
+.center-createpost2{
+    display: flex;
+    padding-left: 25px;
+    padding-bottom: 25px;
+
+}
+.center-createpost1{
+    background-color: #f5f6f7;
+   
+}
+.center-createpost3{
+    display: flex;
+    cursor: pointer;
+}
+.font4{
+    padding-left: 20%;
+}
+.center-createstory{
+    background-color: #ffff; 
+    padding-top: 20px;
+    border-radius: 30px;
+}
+.center-createstoryCard{
+width: 100%;
+display: flex;
+justify-content: space-between;
+}
+.card-createstory{
+    width: 24%;
+    border-radius: 30px;
+}
+.center-post{
+    width: 100%;
+    padding-top: 20px;
+    background-color: #ffff;
+    border-radius: 10px;
+}
+.center-post-profile{
+    width: 100%;
+    display: flex;
+
+}
+.font-post-profile{
+    padding-left: 20px;
+    color:#3a5b9a;
+}
+.center-post-function{
+    padding-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.ceenter-post-postt{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+#commentInput{
+    width: 100%;
+}
+.center-post-comment{
+    width: 100%;
+    display: flex;
+}
+.center-createpost{
+    background-color: #ffff;
+    border-radius: 30px;
+}

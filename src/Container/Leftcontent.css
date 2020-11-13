@@ -1,0 +1,45 @@
+.left-container{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 250px;
+    background-color: #e9ebee;
+}
+.font3{
+  white-space: normal;
+}
+.left-profile{
+    padding-left: 15%;
+    padding-top: 20px; 
+}
+.left-icon-profile{
+    padding-left:13% ;
+    padding-top: 20px;
+    
+}
+.fas.fa-rss-square{
+    cursor: pointer;
+}
+.fab.fa-facebook-messenger{
+    cursor: pointer;
+}
+.fas.fa-archive{
+    cursor: pointer;
+}
+.font1{
+    padding-left: 2%;
+    color: gray;
+}
+.left-icon-group{
+    padding-left: 13%;
+    padding-top: 10px; 
+    cursor: pointer;
+
+}
+.left-icon-tools{
+    padding-left: 13%;
+    padding-top: 10px;
+    cursor: pointer;
+}
+

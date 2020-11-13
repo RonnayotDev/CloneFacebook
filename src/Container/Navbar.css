@@ -1,0 +1,65 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color: #3b5998;
+    color:white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.navbar-container{
+    display: flex;
+}
+.navbar-search{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.nav-items{
+    cursor: pointer;
+    padding-top: 10px;
+  
+}
+.fab.fa-facebook-square{
+   font-size:40px;
+}
+.nav-icon{
+    cursor: pointer;
+    padding-top: 10px;
+}
+
+
+.search-input {
+    padding: 2px 0 2px 8px;
+    border: 1px solid #384C7F;
+    height: 25px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    width: 580px;
+    margin: 0 auto;
+    display: block
+    }
+
+.search-btn {
+    position: absolute;
+    right: 8px;
+    top: 13px;
+    width: 14px;
+    height: 14px;
+    font-size: 14px;
+    color: #434343
+    }
+
+.searchsubmit {
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    text-shadow: none;
+    border: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: rgba(0, 0, 0, 0);
+    }
+
